@@ -22,7 +22,7 @@ The goal is to become **AI/ML internship-ready** by developing strong fundamenta
 | Day | Project Name                     | Description                                   | Status |
 | --- | -------------------------------- | --------------------------------------------- | ------ |
 | 01  | Mini Calculator                  | Rule-based calculator using conditional logic | [x]    |
-| 02  | Rule-Based Chatbot               | Text-based chatbot using if-else rules        | [ ]    |
+| 02  | Rule-Based Chatbot               | Text-based chatbot using if-else rules        | [x]    |
 | 03  | Number Guessing AI               | Feedback-based guessing logic                 | [ ]    |
 | 04  | Simple Recommendation System     | Rule-based item recommendation                | [ ]    |
 | 05  | Data Analysis Project            | Exploring datasets using pandas & matplotlib  | [ ]    |
